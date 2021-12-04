@@ -1,0 +1,7 @@
+rustc <file.rs>
+
+cargo new <project name>
+
+cargo build
+cargo run
+cargo check
